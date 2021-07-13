@@ -118,10 +118,10 @@ export const socials = [
     label: "Telegram",
     icon: "TelegramIcon",
     items: [
-      {
-        label: "English",
-        href: "https://t.me/moussefinance",
-      },
+      // {
+      //   label: "English",
+      //   href: "https://t.me/moussefinance",
+      // },
       // {
       //   label: "Bahasa Indonesia",
       //   href: "https://t.me/PancakeSwapIndonesia",
@@ -164,7 +164,7 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/moussefinance",
       },
       // {
       //   label: "Price Bot",
@@ -175,7 +175,7 @@ export const socials = [
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/moussefinance",
+    href: "https://twitter.com/moussefarm",
   },
   // {
   //   label: "Reddit",
